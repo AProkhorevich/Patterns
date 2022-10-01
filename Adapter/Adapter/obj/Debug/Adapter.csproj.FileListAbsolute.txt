@@ -1,0 +1,7 @@
+H:\Adapter\Adapter\bin\Debug\Adapter.exe.config
+H:\Adapter\Adapter\bin\Debug\Adapter.exe
+H:\Adapter\Adapter\bin\Debug\Adapter.pdb
+H:\Adapter\Adapter\obj\Debug\Adapter.csprojAssemblyReference.cache
+H:\Adapter\Adapter\obj\Debug\Adapter.csproj.CoreCompileInputs.cache
+H:\Adapter\Adapter\obj\Debug\Adapter.exe
+H:\Adapter\Adapter\obj\Debug\Adapter.pdb
